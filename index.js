@@ -1,3 +1,3 @@
-var a = document.getElementsByClassName('_o0442');
+var a = document.getElementsByTagName('button');
 a[0].click();
 setInterval(function(){ a[0].click(); }, 20000);
